@@ -2,7 +2,37 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+## What does this app do? what do you need to run the app?
+
+this is an app called LinkUp and it's for listing posts so first thing you will see after installing this app to your device is:
+![Splash Screen](image.png)
+
+then you will see :
+
+![Home Screen](image-1.png)
+
+in which you will find a scrollable list of posts each post has the name and the avatar of the user and the title and the body of the post then if you clicked on one of these posts you will be redirected to the details of it in:
+
+![Post Details Screen](image-2.png)
+
+and there you will find the same details of the post + the comments to this post and if the post doesn't have any comments you will see the details with no comment yet! like this:
+
+![No comments](image-3.png)
+
+Also if something wrong is happened you will see error page in home screen:
+
+![error screen](image-4.png)
+
+and if there's no list you will get no results screen:
+
+![no Results](image-5.png)
+
+that's every thing related to this app and you will find an apk so you can try it on your emulator or your device [here](https://drive.google.com/file/d/1QrL08uzWamvrF8zMwcxYNqRITFrAfz_4/view?usp=sharing).
+Also you can find an .app for the ios if you want to run it on your simulator [here](https://drive.google.com/file/d/1OcwESt5O3PfeGapQuQJx0E2epSsecQf4/view?usp=sharing).
+
+And to run the app you need to follow the regular steps of installing the dependencies and run the commands of running like the following steps:
 
 ## Step 1: Start the Metro Server
 
